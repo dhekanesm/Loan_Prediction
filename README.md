@@ -12,6 +12,6 @@ Automation is done based on following parameters
 We will go simply by 
 1. Introduction to problem Statement
 2. Understanding the data through Exploratory Data Analysis
-3. Model Building using Logistic Regression
+3. Model Building using Logistic Regression,Decison Tree, Random Forest, XGBoost and Neural Network
 4. Various Feature Engg Techniques
 
